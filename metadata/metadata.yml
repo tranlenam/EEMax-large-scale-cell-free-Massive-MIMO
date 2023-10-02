@@ -1,0 +1,20 @@
+metadata_version: 1
+name: 'Energy Efficiency Maximization in Large-Scale Cell-Free Massive MIMO: A Projected
+  Gradient Approach'
+description: 'Simulation Code for "Energy Efficiency Maximization in Large-Scale Cell-Free
+  Massive MIMO: A Projected Gradient Approach" IEEE Trans. Wireless Commun., vol.
+  21, no. 8, pp. 6357-6371, Aug. 2022, by Trang C. Mai, Hien Quoc Ngo, and Le-Nam
+  Tran'
+authors:
+- name: Trang C. Mai
+  affiliations:
+  - name: Queen's University Belfast
+- name: Hien Quoc Ngo
+  affiliations:
+  - name: Queen's University Belfast
+- name: Le-Nam Tran
+  affiliations:
+  - name: University College Dublin
+corresponding_contributor:
+  name: Le-Nam Tran
+  email: nam.tran@ucd.ie
